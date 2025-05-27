@@ -7,7 +7,12 @@
 note : minimal menggunakan akun moz pro standard agar mendapatkan hasil maksimal
 
 
-<img src="/1.png" width="600" alt="Moz Backlink Analyzer | Without api key">
+<img src="/moz-pro-without-api-key.png" width="600" alt="Moz Backlink Analyzer | Without api key">
+
+
+Rekomendasi menggunakan tools ini dengan tools pelengkapnya
+- [URL-Cleaner-Comparator](https://github.com/Dzbackdor/URL-Cleaner-Comparator)
+- [python-seo-tools](https://github.com/Dzbackdor/python-seo-tools)
 
 ## 📋 Deskripsi
 
@@ -30,7 +35,7 @@ Tool ini dirancang khusus untuk mengotomatisasi proses analisis backlink yang bi
 - **🎯 Lebih stabil** untuk proses otomatis
 - **⚡ Tidak ada gangguan visual** yang memperlambat
 
-<img src="/2.png" width="600" alt="Moz Backlink Analyzer | Without api key">
+<img src="/get-backlink.png" width="600" alt="Moz Backlink Analyzer | Without api key">
 
 ### Perbandingan Performa:
 ```
